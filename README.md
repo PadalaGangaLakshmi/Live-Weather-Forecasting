@@ -1,4 +1,4 @@
-# Live Weather Forecasting Project
+# Live-Weather-Forecasting
 
 ## Introduction
 This project is a live weather forecasting application that provides up-to-date weather information for specified locations.
